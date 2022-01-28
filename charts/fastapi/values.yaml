@@ -9,7 +9,7 @@ image:
   tag: v2.0.0
   pullPolicy: IfNotPresent
 
-imagePullSecrets: []
+imagePullSecrets: ghcr-smans-kristien
 nameOverride: ""
 fullnameOverride: ""
 
